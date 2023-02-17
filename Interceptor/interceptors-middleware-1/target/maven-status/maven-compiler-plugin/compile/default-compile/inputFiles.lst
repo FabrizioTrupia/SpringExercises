@@ -1,0 +1,6 @@
+C:\Users\fabri\OneDrive\Desktop\Spring\Esercizi\Capitolo 3\Interceptor\interceptors-middleware-1\src\main\java\co\develhope\interceptorsmiddleware1\configurations\SpringMVCConfiguration.java
+C:\Users\fabri\OneDrive\Desktop\Spring\Esercizi\Capitolo 3\Interceptor\interceptors-middleware-1\src\main\java\co\develhope\interceptorsmiddleware1\interceptors\LegacyInterceptor.java
+C:\Users\fabri\OneDrive\Desktop\Spring\Esercizi\Capitolo 3\Interceptor\interceptors-middleware-1\src\main\java\co\develhope\interceptorsmiddleware1\controllers\LegacyController.java
+C:\Users\fabri\OneDrive\Desktop\Spring\Esercizi\Capitolo 3\Interceptor\interceptors-middleware-1\src\main\java\co\develhope\interceptorsmiddleware1\interceptors\APILoggingInterceptor.java
+C:\Users\fabri\OneDrive\Desktop\Spring\Esercizi\Capitolo 3\Interceptor\interceptors-middleware-1\src\main\java\co\develhope\interceptorsmiddleware1\controllers\BasicController.java
+C:\Users\fabri\OneDrive\Desktop\Spring\Esercizi\Capitolo 3\Interceptor\interceptors-middleware-1\src\main\java\co\develhope\interceptorsmiddleware1\InterceptorsMiddleware1Application.java

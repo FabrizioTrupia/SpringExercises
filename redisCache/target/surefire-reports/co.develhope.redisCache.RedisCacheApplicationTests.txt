@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: co.develhope.redisCache.RedisCacheApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.832 s <<< FAILURE! - in co.develhope.redisCache.RedisCacheApplicationTests
+co.develhope.redisCache.RedisCacheApplicationTests  Time elapsed: 1.829 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.sendgrid.net
+    port: 587
+    username: fabriziotrupia1995@gmail.com
+    password: TrupiaFabrizio1995
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
